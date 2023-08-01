@@ -13,15 +13,6 @@
         </video>
     </div>
     
-    <div>
-        <h2>Interleukin-2 (IL2)</h2>
-        <video width="320" height="240" controls>
-            <source src="IL2_compr.mp4" type="video/mp4">            
-        </video>
-        <p>
-            <a href="IL2_page.html">Link to Page 1</a>
-        </p>
-    </div>
 
 </body>
 </html>
